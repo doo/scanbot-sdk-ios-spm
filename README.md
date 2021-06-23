@@ -6,5 +6,6 @@ Provides functionality like Document Scanning, Barcode and QR Code Scanning, Ima
 Optical Character Recognition, etc.
 
 For more details please see:
+
 - [Documentation](https://scanbotsdk.github.io/documentation/ios/)
 - [Example App](https://github.com/doo/scanbot-sdk-example-ios)
