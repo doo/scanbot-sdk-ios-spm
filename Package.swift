@@ -9,6 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "ScanbotSDK",
+            type: .static,
             targets: ["ScanbotSDK"]),
     ],
     targets: [
