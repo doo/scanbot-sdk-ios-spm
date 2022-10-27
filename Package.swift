@@ -9,7 +9,6 @@ let package = Package(
     products: [
         .library(
             name: "ScanbotSDK",
-            type: .dynamic,
             targets: ["ScanbotSDK"]),
     ],
     targets: [
