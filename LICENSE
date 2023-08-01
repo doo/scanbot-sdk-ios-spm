@@ -825,7 +825,7 @@ without express or implied warranty.
 
 JSON for Modern C++
 
-Version v3.11.2
+Version no-rev
 (https://github.com/nlohmann/json)
 
 MIT License 
@@ -1204,7 +1204,7 @@ OF THIS SOFTWARE.
 
 magic-enum
 
-Version v0.8.1
+Version no-rev
 (https://github.com/Neargye/magic_enum)
 
 MIT License
@@ -1234,7 +1234,7 @@ SOFTWARE.
 
 Nameof C++
 
-Version v0.10.1
+Version no-rev
 (https://github.com/Neargye/nameof)
 
 MIT License
@@ -1647,7 +1647,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 spdlog
 
-Version v1.9.2
+Version no-rev
 (https://github.com/gabime/spdlog)
 
 The MIT License (MIT)
@@ -2192,7 +2192,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 xsimd
 
-Version 7.4.9-18-g3d17850
+Version no-rev
 (https://github.com/xtensor-stack/xsimd)
 
 Copyright (c) 2016, Johan Mabille, Sylvain Corlay, Wolf Vollprecht and Martin Renou
@@ -2229,7 +2229,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 xtensor
 
-Version 0.23.4-35-gbe35a267
+Version no-rev
 (https://github.com/doo/xtensor)
 
 Copyright (c) 2016, Johan Mabille, Sylvain Corlay and Wolf Vollprecht
@@ -2266,7 +2266,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 xtl
 
-Version 0.7.2
+Version no-rev
 (https://github.com/xtensor-stack/xtl)
 
 BSD 3-Clause License
