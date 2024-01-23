@@ -1231,6 +1231,18 @@ OF THIS SOFTWARE.
 
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
+libzueci
+
+Version 1.0.0
+(https://sourceforge.net/projects/libzueci/)
+
+A simple, standalone, BSD-3-Clause C library for converting UTF-8 to/from Extended Channel Interpretations, as
+defined by AIM ITS/04-023 International Technical Standard - Extended Channel Interpretations Part 3: Register
+(Version 2, February 2022).
+
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
 magic-enum
 
 Version no-rev
@@ -2500,6 +2512,7 @@ Version 1.1.0
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
 
 
 
