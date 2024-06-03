@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "ScanbotSDK",
             url: "https://download.scanbot.io/sdk/ios/pre/xcframeworks/RC2/scanbot-ios-sdk-xcframework-5.2.0.zip",
-            checksum: "fedfd511f824dfba4ce317ba1346519d56fe8078f4ea3ba0ebb1e8bbb247fa87"
+            checksum: "0e3ec7517250ffe7e7eef58cbedc72f94b61eeddc24fd88529ec8e27f0f35285"
         ),
         .target(name: "AdditionalData",
                 dependencies: ["ScanbotSDK"],
