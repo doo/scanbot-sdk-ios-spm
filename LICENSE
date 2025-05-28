@@ -1,10 +1,10 @@
-Open Source libraries used in ScanbotSDK for iOS version 7.0.0:
+Open Source libraries used in ScanbotSDK for iOS version 7.0.2:
 
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
 Boost C++
 
-Version 1.79.0
+Version 1.88.0
 (https://github.com/boostorg/boost)
 
 Boost Software License - Version 1.0 - August 17th, 2003
