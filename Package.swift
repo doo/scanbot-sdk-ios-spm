@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "ScanbotSDK",
     platforms: [
-        .iOS(.v13),
+        .iOS("15.0"),
     ],
     products: [
         .library(
@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScanbotSDK",
-            url: "https://download.scanbot.io/sdk/ios/xcframeworks/scanbot-ios-sdk-xcframework-9.0.3.zip",
-            checksum: "15aafdfad74d0bfc95901002b778d1e99f0a0db10a8c36d34118e1687c7ccf6b"
+            url: "https://download.scanbot.io/sdk/ios/xcframeworks/scanbot-ios-sdk-xcframework-10.0.0.zip",
+            checksum: "b959afedf2c479023549ef050157232b168d3ad10e6687f4840b4a3eb8a8fea4"
         ),
         .target(name: "AdditionalData",
                 dependencies: ["ScanbotSDK"],
